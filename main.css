@@ -5,7 +5,8 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 150px;
-  color: #f36a7b;
+  color: red;
+  background-color: #f36a7b;
 }
 
 h1 {
@@ -27,7 +28,7 @@ width: 400px;
 }
 
 input{
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .addOption{
